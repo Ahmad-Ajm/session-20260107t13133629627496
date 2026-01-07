@@ -9,20 +9,20 @@
 > **حالة الملفات**: `NotStarted`, `InProgress`, `Done`, `Skipped`
 
 | clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
-|---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
-| NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-REGISTRATION | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-BROWSE | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DETAILS | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Static Policy Pages | FEAT-POLICY-PAGES | 0% | NotStarted | NotStarted |
+|---------|------|---------|-------|-------------------|----------------------|------------------------|----------------------------|----------|
+| NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-AUTH | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-LIST | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DET | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Static Policy Pages | FEAT-POLICIES | 0% | NotStarted | NotStarted |
 
 ---
 
-## 🛠️ التقنيات المستخدمة
+## 🛠️ التقنيات المستخدمة : مثال:
 
-### **Backend**: _(.NET 8 + ABP Framework)_
-### **Frontend**: _(Angular 17)_
-### **قاعدة البيانات**: _(PostgreSQL)_
-### **البنية التحتية**: _(Docker – لاحقاً)_
+### **Backend**: _(التقنيات: `.NET 8 + ABP Framework`)_
+### **Frontend**: _(التقنيات: `Angular 17`)_
+### **قاعدة البيانات**: _(التقنيات: `PostgreSQL`)_
+### **البنية التحتية**: _(Docker, Redis, ...)_
 
 ---
 
@@ -31,7 +31,7 @@
 ### الميزات الكلية: 4
 - ✅ مكتملة في SpecKit: 0 (0%)
 - ⚙️ قيد التطوير في الكود: 0
-- ❌ غير مبدوءة: 4 (100%)
+- ❌ غير مبدوءة: 4
 
 ### مراحل التطوير (تقديريًا على مستوى المشروع):
 1. **SpecKit**: 0%
@@ -44,10 +44,10 @@
 ## 🔄 آخر تحديث
 - **التاريخ**: 2026-01-07
 - **التغييرات**:
-  - ✅ تهيئة ملف التقدم وربطه بميزات MVP الخاصة بمنصة إدارة الفعاليات.
+  - ✅ تعبئة ملف تقدم العمل وفق ميزات MVP لمنصة إدارة الفعاليات.
 
 ---
 
 ## 📝 ملاحظات
-- لم يتم البدء بعد بكتابة ملفات SpecKit أو الأكواد.
-- الميزات معرفة وجاهزة للانتقال إلى مرحلة الـ Clarify.
+- جميع الميزات حالياً في مرحلة التخطيط ولم يبدأ العمل عليها بعد.
+- جاهز للانتقال إلى مرحلة Clarify لأي ميزة.
