@@ -28,6 +28,17 @@
 
 ---
 
+## ➕ جدول متابعة موحد (إضافة إلزامية)
+
+| clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
+|---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
+| NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-AUTH | 0% | InProgress (~75%) | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-LIST | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DET | 0% | NotStarted | NotStarted |
+| NotStarted | NotStarted | NotStarted | NotStarted | Static Policy Pages | FEAT-POLICIES | 0% | NotStarted | NotStarted |
+
+---
+
 ## 📊 ملخص التقدم
 
 ### الميزات الكلية: 4
@@ -47,7 +58,7 @@
 - **التاريخ**: 2026-01-08
 - **التغييرات**:
   - ✅ تحديث progress.md ليعكس ميزات MVP الحالية.
-  - ✅ إضافة جدول متابعة إضافي حسب الطلب.
+  - ✅ إضافة جدول متابعة إلزامي موحد.
 
 ---
 
