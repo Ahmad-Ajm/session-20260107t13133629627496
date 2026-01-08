@@ -10,10 +10,10 @@
 
 | clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
 |---------|------|---------|-------|-------------------|----------------------|------------------------|---------------------------|----------|
-| NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-AUTH | 0% | InProgress (~75%) | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-LIST | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DET | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Static Policy Pages | FEAT-POLICIES | 0% | NotStarted | NotStarted |
+| Done | Done | Done | NotStarted | User Registration & Login | FEAT-USER-AUTH | 100% | InProgress (~75%) | NotStarted |
+| Done | Done | Done | NotStarted | Browse Events | FEAT-EVENT-LIST | 100% | NotStarted | NotStarted |
+| Done | Done | Done | NotStarted | Event Details Page | FEAT-EVENT-DET | 100% | NotStarted | NotStarted |
+| Done | Done | Done | NotStarted | Static Policy Pages | FEAT-POLICIES | 100% | NotStarted | NotStarted |
 
 ---
 
@@ -21,23 +21,23 @@
 
 | clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
 |---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
-| NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-AUTH | 0% | InProgress (~75%) | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-LIST | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DET | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Static Policy Pages | FEAT-POLICIES | 0% | NotStarted | NotStarted |
+| Done | Done | Done | NotStarted | User Registration & Login | FEAT-USER-AUTH | 100% | InProgress (~75%) | NotStarted |
+| Done | Done | Done | NotStarted | Browse Events | FEAT-EVENT-LIST | 100% | NotStarted | NotStarted |
+| Done | Done | Done | NotStarted | Event Details Page | FEAT-EVENT-DET | 100% | NotStarted | NotStarted |
+| Done | Done | Done | NotStarted | Static Policy Pages | FEAT-POLICIES | 100% | NotStarted | NotStarted |
 
 ---
 
 ## 📊 ملخص التقدم
 
 ### الميزات الكلية: 4
-- ✅ مكتملة في SpecKit: 0 (0%)
+- ✅ مكتملة في SpecKit: 4 (100%)
 - ⚙️ قيد التطوير في SpecKit: 0
-- ❌ غير مبدوءة: 4
+- ❌ غير مبدوءة: 0
 
 ### مراحل التطوير (تقديريًا على مستوى المشروع):
-1. **SpecKit**: 0%
-2. **كتابة الأكواد**: 0%
+1. **SpecKit**: 100%
+2. **كتابة الأكواد**: 20%
 3. **الاختبار**: 0%
 4. **النشر**: 0%
 
@@ -46,10 +46,10 @@
 ## 🔄 آخر تحديث
 - **التاريخ**: 2026-01-08
 - **التغييرات**:
-  - ✅ إضافة جدول المتابعة الإلزامي الموحد وتعبئته حسب حالة الميزات الحالية.
+  - ✅ تحديث حالة جميع ميزات MVP إلى Ready / Done في SpecKit بناءً على ملخص المحادثة.
 
 ---
 
 ## 📝 ملاحظات
-- المشروع في مرحلة الإعداد والتحليل.
-- جاهز للبدء بإنشاء ملفات SpecKit للميزات الأساسية.
+- تم اعتماد جميع ميزات MVP وجعلها جاهزة للبدء بإنشاء ملفات SpecKit التفصيلية.
+- العمل القادم: توليد ملفات SpecKit داخل مجلد `specKitFiles/`.
