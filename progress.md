@@ -10,17 +10,6 @@
 
 | clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
 |---------|------|---------|-------|-------------------|----------------------|------------------------|---------------------------|----------|
-| NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-AUTH | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-LIST | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DET | 0% | NotStarted | NotStarted |
-| NotStarted | NotStarted | NotStarted | NotStarted | Static Policy Pages | FEAT-POLICIES | 0% | NotStarted | NotStarted |
-
----
-
-## ➕ جدول المتابعة الإضافي (حسب الطلب)
-
-| clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
-|---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
 | NotStarted | NotStarted | NotStarted | NotStarted | User Registration & Login | FEAT-USER-AUTH | 0% | InProgress (~75%) | NotStarted |
 | NotStarted | NotStarted | NotStarted | NotStarted | Browse Events | FEAT-EVENT-LIST | 0% | NotStarted | NotStarted |
 | NotStarted | NotStarted | NotStarted | NotStarted | Event Details Page | FEAT-EVENT-DET | 0% | NotStarted | NotStarted |
@@ -57,8 +46,7 @@
 ## 🔄 آخر تحديث
 - **التاريخ**: 2026-01-08
 - **التغييرات**:
-  - ✅ تحديث progress.md ليعكس ميزات MVP الحالية.
-  - ✅ إضافة جدول متابعة إلزامي موحد.
+  - ✅ إضافة جدول المتابعة الإلزامي الموحد وتعبئته حسب حالة الميزات الحالية.
 
 ---
 
