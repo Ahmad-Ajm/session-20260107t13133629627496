@@ -1,55 +1,18 @@
-# تقدم العمل & حالة الميزات
-هذا الملف قالب : يجب التقيد بالهكيلية
-> **ملاحظة**: يتم تحديث هذا الملف تلقائياً بعد كل تعديل على ميزة بواسطة SpecKit. **حالة SpecKit**: `NotStarted`, `InProgress`, `Done`, `Skipped`
-
----
-
-## 🚀 حالة SpecKit + الكود
-
-> **حالة الملفات**: `NotStarted`, `InProgress`, `Done`, `Skipped`
-
-| clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
-|---------|------|---------|-------|-------------------|----------------------|------------------------|---------------------------|----------|
-| Done | Done | Done | NotStarted | User Registration & Login | FEAT-USER-AUTH | 100% | InProgress (~75%) | NotStarted |
-| Done | Done | Done | NotStarted | Browse Events | FEAT-EVENT-LIST | 100% | NotStarted | NotStarted |
-| Done | Done | Done | NotStarted | Event Details Page | FEAT-EVENT-DET | 100% | NotStarted | NotStarted |
-| Done | Done | Done | NotStarted | Static Policy Pages | FEAT-POLICIES | 100% | NotStarted | NotStarted |
-
----
-
-## ➕ جدول متابعة موحد (إضافة إلزامية)
-
-| clarify | plan | specify | tasks | الميزة في SpecKit | ID الميزة في SpecKit | تقدم الميزة في SpecKit | حالة كتابة الأكواد Backend | Frontend |
-|---------|------|---------|-------|---------------|-----------------|---------------|------------|---|
-| Done | Done | Done | NotStarted | User Registration & Login | FEAT-USER-AUTH | 100% | InProgress (~75%) | NotStarted |
-| Done | Done | Done | NotStarted | Browse Events | FEAT-EVENT-LIST | 100% | NotStarted | NotStarted |
-| Done | Done | Done | NotStarted | Event Details Page | FEAT-EVENT-DET | 100% | NotStarted | NotStarted |
-| Done | Done | Done | NotStarted | Static Policy Pages | FEAT-POLICIES | 100% | NotStarted | NotStarted |
-
----
-
-## 📊 ملخص التقدم
-
-### الميزات الكلية: 4
-- ✅ مكتملة في SpecKit: 4 (100%)
-- ⚙️ قيد التطوير في SpecKit: 0
-- ❌ غير مبدوءة: 0
-
-### مراحل التطوير (تقديريًا على مستوى المشروع):
-1. **SpecKit**: 100%
-2. **كتابة الأكواد**: 20%
-3. **الاختبار**: 0%
-4. **النشر**: 0%
-
----
-
-## 🔄 آخر تحديث
-- **التاريخ**: 2026-01-08
-- **التغييرات**:
-  - ✅ تحديث حالة جميع ميزات MVP إلى Ready / Done في SpecKit بناءً على ملخص المحادثة.
-
----
-
-## 📝 ملاحظات
-- تم اعتماد جميع ميزات MVP وجعلها جاهزة للبدء بإنشاء ملفات SpecKit التفصيلية.
-- العمل القادم: توليد ملفات SpecKit داخل مجلد `specKitFiles/`.
+IyDYqtmC2K/ZhSDYp9mE2LnZhdmEICYg2K3Yp9mE2Kkg2KfZhNmF2YrYstin
+2KoK2YfYsNinINin2YTZhdmE2YEg2YLYp9mE2KggOiDZitis2Kgg2KfZhNiq
+2YLZitivINio2KfZhNmH2YPZitmE2YrYqQo+ICoq2YXZhNin2K3YuNipKio6
+INmK2KrZhSDYqtit2K/ZitirINmH2LDYpyDYp9mE2YXZhNmBINiq2YTZgtin
+2KbZitin2Ysg2KjYudivINmD2YQg2KrYudiv2YrZhCDYudmE2Ykg2YXZitiy
+2Kkg2KjZiNin2LPYt9ipIFNwZWNLaXQuICoq2K3Yp9mE2KkgU3BlY0tpdCoq
+OiBgTm90U3RhcnRlZGAsIGBJblByb2dyZXNzYCwgYERvbmVgLCBgU2tpcHBl
+ZGAKCi0tLQoKIyMg8J+agCDYrdin2YTYqSBTcGVjS2l0ICsg2KfZhNmD2YjY
+rwoKPiAqKtit2KfZhNipINin2YTZhdmE2YHYp9iqKio6IGBOb3RTdGFydGVk
+YCwgYEluUHJvZ3Jlc3NgLCBgRG9uZWAsIGBTa2lwcGVkYAoKfCBjbGFyaWZ5
+IHwgcGxhbiB8IHNwZWNpZnkgfCB0YXNrcyB8INin2YTZhdmK2LLYqSDZgdmK
+IFNwZWNLaXQgfCBJRCDYp9mE2YXZitiy2Kkg2YHZiiBTcGVjS2l0IHwg2KrZ
+gtiv2YUg2KfZhNmF2YrYstipINmB2YogU3BlY0tpdCB8INit2KfZhNipINmD
+2KrYp9io2Kkg2KfZhNij2YPZiNin2K8gQmFja2VuZCB8IEZyb250ZW5kIHwK
+fC0tLS0tLS0tLXwtLS0tLS18LS0tLS0tLS0tfC0tLS0tLS18LS0tLS0tLS0t
+LS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS18LS0t
+LS0tLS0tLXwKfCBEb25lIHwgRG9uZSB8IERvbmUgfCBEb25lIHwgRXZlbnQgRGV0YWlscyBQYWdlIHwgRkVBVC1FVkVOVC1ERVQgIHwgMTAwJSB8IERvbmUgfCBEb25lIHwKfCBEb25lIHwgRG9uZSB8IERvbmUgfCBOb3RTdGFydGVkIHwgVXNlciBSZWdpc3RyYXRpb24gJiBMb2dpbiB8IEZFQVQtVVNFUi1BVVRIIHwgMTAwJSB8IEluUHJvZ3Jlc3MgKH43NSUpIHwgTm90U3RhcnRlZCB8CnwgRG9uZSB8IERvbmUgfCBEb25lIHwgTm90U3RhcnRlZCB8IEJyb3dzZSBFdmVudHMgfCBGRUFULUVWRU5ULUxJU1QgfCAxMDAlIHwgTm90U3RhcnRlZCB8IE5vdFN0YXJ0ZWQgfAp8IERvbmUgfCBEb25lIHwgRG9uZSB8IE5vdFN0YXJ0ZWQgfCBTdGF0aWMgUG9saWN5IFBhZ2VzIHwgRkVBVC1QT0xJQ0lFUyB8IDEwMCUgfCBOb3RTdGFydGVkIHwgTm90U3RhcnRlZCB8
